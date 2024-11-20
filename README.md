@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syedmohdnaqvi
 - 👀 I’m interested in playing video games and coding. 
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning mern stack web development
 - 📫 How to reach me -> +916398155598
 
 <!---
